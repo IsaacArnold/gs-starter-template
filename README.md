@@ -8,10 +8,6 @@ This starter temaplate provides you with a barebones Gatsby frontend and a minim
 
 ## Getting started
 
-I made a step-by-step tutorial on YouTube [HERE](https://www.youtube.com/watch?v=Jz3cxK1rztw)
-
-Or follow the steps below:
-
 1. Clone this repository
 2. `cd sanity`
 3. `npm install -g @sanity/cli`
