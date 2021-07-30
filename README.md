@@ -1,9 +1,10 @@
 # Gatsby Sanity Starter
 
-## What you have
+## What this template gives you
 
-- A blazing fast blog with [Gatsby.js](https://gatsbyjs.org)
-- Structured content using [Sanity.io](https://www.sanity.io)
+This starter temaplate provides you with a barebones Gatsby frontend and a minimal Sanity CMS. Feel free to use this template however you like.
+
+- A blazing fast website built with Gatsby + a customisable structured CMS built with Sanity.
 
 ## Quick start
 
