@@ -6,7 +6,7 @@ This starter temaplate provides you with a barebones Gatsby frontend and a minim
 
 - A blazing fast website built with Gatsby + a customisable structured CMS built with Sanity.
 
-## Quick start
+## Getting started
 
 I made a step-by-step tutorial on YouTube [HERE](https://www.youtube.com/watch?v=Jz3cxK1rztw)
 
